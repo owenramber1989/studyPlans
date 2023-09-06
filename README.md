@@ -23,4 +23,4 @@ It's well known that to be an expert in something always takes effort. Especiall
 ## homemade roadmap
 
 - [x] \(READING) [Advanced go programming](https://chai2010.cn/advanced-go-programming-book/)
-- [] \(COURSE) [Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+- [ ] \(COURSE) [Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html)
